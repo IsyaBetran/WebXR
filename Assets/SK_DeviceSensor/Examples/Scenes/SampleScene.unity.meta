@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 393204b89257a8c47bc684b370c6193d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270653
+  packageName: Gyroscope and Accelerometer for WebGL
+  packageVersion: 1.0
+  assetPath: Assets/SK_DeviceSensor/Examples/Scenes/SampleScene.unity
+  uploadId: 643133
